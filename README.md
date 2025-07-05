@@ -1,0 +1,1 @@
+This website contains an index page that lists 3 easy recipes, each recipe contains a brief description, the ingredients, the steps and a picture. This is a project meant to show the html(and git) skills learned throughout this curriculum. My main focus was trying to practice commiting effectively on git.
